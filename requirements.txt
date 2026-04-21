@@ -1,0 +1,6 @@
+flask
+pymongo
+pydantic
+pyjwt
+python-dotenv
+bson

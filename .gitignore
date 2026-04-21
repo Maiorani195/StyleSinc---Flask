@@ -1,0 +1,9 @@
+# Segredos
+.env
+
+# Ambientes Virtuais
+venv/
+
+# Caches do Python e Pytest
+__pycache__/
+.pytest_cache/
